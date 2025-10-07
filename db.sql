@@ -1,0 +1,14 @@
+CREATE DATABASE go_crud_db
+    DEFAULT CHARACTER SET = 'utf8mb4';
+
+    use go_crud_db;
+    CREATE TABLE products (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    description TEXT,
+    price DECIMAL(10, 2) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+ALTER TABLE products ADD COLUMN image_filename VARCHAR(255) NULL;
+
+ALTER TABLE products ADD COLUMN stock INT UNSIGNED NOT NULL DEFAULT 0;
