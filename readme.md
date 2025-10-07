@@ -336,8 +336,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Toko Sinar Cahaya Abadi**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [Aksan-12](https://github.com/Aksan-12)
+- Email: calongamer789@gmail.com
 
 ---
 
@@ -353,7 +353,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Support
 
-Jika Anda menemukan bug atau memiliki saran, silakan buat [issue](https://github.com/yourusername/elite-inventory-system/issues) baru.
+Jika Anda menemukan bug atau memiliki saran, silakan buat [issue](https://github.com/Aksan-12/sistem-informasi-barang/issues) baru.
 
 ---
 
@@ -361,6 +361,6 @@ Jika Anda menemukan bug atau memiliki saran, silakan buat [issue](https://github
 
 **⭐ Jangan lupa beri star jika project ini membantu! ⭐**
 
-Made with ❤️ by Toko Sinar Cahaya Abadi
+Made with ❤️ by Aksan-12
 
 </div>
