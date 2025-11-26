@@ -110,7 +110,7 @@ ALTER TABLE products ADD COLUMN stock INT UNSIGNED NOT NULL DEFAULT 0;
 ### 3️⃣ Install Dependencies
 
 ```bash
-go mod init elite-inventory-system
+go mod init sistem-informasi-iventaris-barang
 go get -u github.com/go-sql-driver/mysql
 ```
 
