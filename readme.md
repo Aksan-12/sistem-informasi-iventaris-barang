@@ -82,8 +82,8 @@ Sebelum menjalankan aplikasi, pastikan Anda telah menginstall:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/elite-inventory-system.git
-cd elite-inventory-system
+git clone https://github.com/username/sistem-informasi-iventaris-barang.git
+cd sistem-informasi-iventaris-barang
 ```
 
 ### 2️⃣ Setup Database
